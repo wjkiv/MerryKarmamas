@@ -1,7 +1,9 @@
 
 ## Password Rules
+First, please listen to included message.mp3 file for your instructions. Then procede reading.
+
 Passwords may only be six digits, i.e. there are no alphabetical or special
-characters. 
+characters. The only valid characters are the numbers 0 through 9 inclusive.
 
 The final lock is a string of three two-digit numbers. The lock operates y entering a number clockwise, then counterclockwise, and finally clockwise. 
 For example, 031415 corresponds to a lock pattern of clockwise until 3, counter-clockwise until 14, and clockwise until 15.
